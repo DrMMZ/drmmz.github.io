@@ -1,8 +1,8 @@
-**[Tracking in Faces](https://github.com/DrMMZ)**
+**[Tracking from Faces](https://github.com/DrMMZ)**
 
-"Jesus Christ it's Jason Bourne!" Can we track him?
+Jesus Christ it's Jason Bourne! Can we track him?
 
-A tracker built from [RetinaNet for Object Detection](https://github.com/DrMMZ/RetinaNet) and [ProtoNet for Few-Shot Learning](https://github.com/DrMMZ/ProtoNet), allows us to track Jason Bourne.
+A tracker built from [RetinaNet for Object Detection](https://github.com/DrMMZ/RetinaNet) and [ProtoNet for Few-Shot Learning](https://github.com/DrMMZ/ProtoNet), allows us to detect and recognize faces.
 
 https://user-images.githubusercontent.com/38026940/132160401-ee1f22ca-0b0f-4471-8b62-6144c76cf21c.mp4
 
