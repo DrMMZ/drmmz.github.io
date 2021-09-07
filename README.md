@@ -2,7 +2,7 @@
 
 Jesus Christ it's Jason Bourne! Can we track him?
 
-A tracker built from [RetinaNet for Object Detection](https://github.com/DrMMZ/RetinaNet) and [ProtoNet for Few-Shot Learning](https://github.com/DrMMZ/ProtoNet), allows us to detect and recognize faces.
+A tracker built from [object detection](https://github.com/DrMMZ/RetinaNet) and [few-shot learning](https://github.com/DrMMZ/ProtoNet), allows us to detect and recognize faces.
 
 https://user-images.githubusercontent.com/38026940/132160401-ee1f22ca-0b0f-4471-8b62-6144c76cf21c.mp4
 
