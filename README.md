@@ -33,17 +33,17 @@ The following are example real-time detections using RetinaNet, randomly selecte
 
 * My own dataset, *empty returns operations (ERO-CA)*, is a collection of images such that each contains empty beer, wine and liquor cans or bottles in densely packed scenes that can be returned for refunds in Canada. The goal is to count the number of returns fast and accurately, instead of manually checking by human (specially for some people like me who is bad on counting). The dataset (as of July 15 2021) consists of 47 labeled cellphone images in cans, variety of positions. If you are interested in contributing to this dataset or project, please [email](mailto:mmzhangist@gmail.com) me. 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DrMMZ/drmmz.github.io/master/images/ero_movie.gif" width='360' height='360'/>
+  <img src="https://raw.githubusercontent.com/DrMMZ/drmmz.github.io/master/images/ero_movie.gif" width='380' height='360'/>
 </p> 
 
 * The [SKU-110K](https://github.com/eg4000/SKU110K_CVPR19) dataset, focusing on detection in densely packed scenes. Indeed, our ERO-CA detection above used transfer learning from it.
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DrMMZ/drmmz.github.io/master/images/sku_movie.gif" width='360' height='360'/>
+  <img src="https://raw.githubusercontent.com/DrMMZ/drmmz.github.io/master/images/sku_movie.gif" width='380' height='360'/>
 </p>
 
 * The [nuclei](https://www.kaggle.com/c/data-science-bowl-2018) dataset, identifying the cells’ nuclei. 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DrMMZ/drmmz.github.io/master/images/nuclei_movie.gif" width='360' height='360'/>
+  <img src="https://raw.githubusercontent.com/DrMMZ/drmmz.github.io/master/images/nuclei_movie.gif" width='380' height='360'/>
 </p> 
 
 ----
@@ -55,5 +55,5 @@ This is an implementation of [*ResFPN*](https://github.com/DrMMZ/ResFPN) on Pyth
 Below are example classifications using ResFPN on the [tf_flowers](https://www.tensorflow.org/datasets/catalog/tf_flowers) dataset randomly selected from un-trained images.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DrMMZ/drmmz.github.io/master/images/flower_movie.gif" width='480' height='360'/>
+  <img src="https://raw.githubusercontent.com/DrMMZ/drmmz.github.io/master/images/flower_movie.gif" width='540' height='360'/>
 </p>
