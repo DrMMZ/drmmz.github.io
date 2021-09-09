@@ -4,7 +4,7 @@ Jesus Christ it's Jason Bourne! Can we track him?
 
 A tracker built from [object detection](https://github.com/DrMMZ/RetinaNet) and [few-shot learning](https://github.com/DrMMZ/ProtoNet), allows us to detect and recognize faces.
 
-<video src="https://user-images.githubusercontent.com/38026940/132160401-ee1f22ca-0b0f-4471-8b62-6144c76cf21c.mp4" controls="controls" style="max-width: 540px;"></video>
+<video src="https://user-images.githubusercontent.com/38026940/132160401-ee1f22ca-0b0f-4471-8b62-6144c76cf21c.mp4"></video>
 
 Scenes are taken from *The Bourne Ultimatum (2007 film)* and the cover page is from *The Bourne Identity (2002 film)*.
 
