@@ -27,9 +27,7 @@ In each sample, there are 3 face images learned by the model (under the text "Le
 
 **[RetinaNet for Object Detection](https://github.com/DrMMZ/RetinaNet)**
 
-[RetinaNet](https://arxiv.org/abs/1708.02002) is an efficient one-stage object detector trained with the focal loss. This [repository](https://github.com/DrMMZ/RetinaNet) is a TensorFlow2 implementation of RetinaNet and its applications, aiming for creating a tool in object detection task that can be easily extended to other datasets or used in building projects.
-
-The following are example real-time detections using RetinaNet, randomly selected from un-trained images.
+The following are example real-time detections using the [implementation of RetinaNet](https://github.com/DrMMZ/RetinaNet), randomly selected from un-trained images.
 
 * My own dataset, *empty returns operations (ERO-CA)*, is a collection of images such that each contains empty beer, wine and liquor cans or bottles in densely packed scenes that can be returned for refunds in Canada. The goal is to count the number of returns fast and accurately, instead of manually checking by human (specially for some people like me who is bad on counting). The dataset (as of July 15 2021) consists of 47 labeled cellphone images in cans, variety of positions. If you are interested in contributing to this dataset or project, please [email](mailto:mmzhangist@gmail.com) me. 
 <p align="center">
